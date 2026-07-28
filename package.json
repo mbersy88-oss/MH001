@@ -1,0 +1,16 @@
+{
+  "name": "mh001",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Project Mind core monorepo",
+  "scripts": {
+    "build": "turbo build",
+    "dev": "turbo dev",
+    "lint": "turbo lint",
+    "test": "turbo test"
+  },
+  "devDependencies": {
+    "turbo": "^2.0.0"
+  },
+  "packageManager": "pnpm@10.0.0"
+}
